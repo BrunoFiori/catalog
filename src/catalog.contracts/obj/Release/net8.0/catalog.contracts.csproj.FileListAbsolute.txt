@@ -1,0 +1,11 @@
+D:\microservices\catalog\src\catalog.contracts\bin\Release\net8.0\catalog.contracts.deps.json
+D:\microservices\catalog\src\catalog.contracts\bin\Release\net8.0\catalog.contracts.dll
+D:\microservices\catalog\src\catalog.contracts\bin\Release\net8.0\catalog.contracts.pdb
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.AssemblyInfoInputs.cache
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.AssemblyInfo.cs
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.csproj.CoreCompileInputs.cache
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.dll
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\refint\catalog.contracts.dll
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\catalog.contracts.pdb
+D:\microservices\catalog\src\catalog.contracts\obj\Release\net8.0\ref\catalog.contracts.dll

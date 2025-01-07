@@ -10,3 +10,4 @@ D:\microservices\catalog\src\catalog.contracts\obj\Debug\net8.0\refint\catalog.c
 D:\microservices\catalog\src\catalog.contracts\obj\Debug\net8.0\catalog.contracts.pdb
 D:\microservices\catalog\src\catalog.contracts\obj\Debug\net8.0\ref\catalog.contracts.dll
 D:\microservices\catalog\src\catalog.contracts\obj\Debug\net8.0\catalog.contracts.csproj.AssemblyReference.cache
+D:\microservices\catalog\src\catalog.contracts\obj\Debug\net8.0\catalog.contracts.sourcelink.json

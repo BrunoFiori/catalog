@@ -61,3 +61,4 @@ D:\microservices\catalog\src\catalog.services\obj\Debug\net8.0\refint\catalog.se
 D:\microservices\catalog\src\catalog.services\obj\Debug\net8.0\catalog.services.pdb
 D:\microservices\catalog\src\catalog.services\obj\Debug\net8.0\catalog.services.genruntimeconfig.cache
 D:\microservices\catalog\src\catalog.services\obj\Debug\net8.0\ref\catalog.services.dll
+D:\microservices\catalog\src\catalog.services\obj\Debug\net8.0\catalog.services.sourcelink.json

@@ -13,13 +13,13 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.2",
           "Swashbuckle.AspNetCore": "6.4.0",
           "catalog.contracts": "1.0.1",
-          "commom": "1.2.1"
+          "commom": "1.2.2"
         },
         "runtime": {
           "catalog.services.dll": {}
         }
       },
-      "commom/1.2.1": {
+      "commom/1.2.2": {
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
           "MassTransit.RabbitMQ": "8.3.4",
@@ -30,8 +30,8 @@
         },
         "runtime": {
           "lib/net8.0/commom.dll": {
-            "assemblyVersion": "1.2.1.0",
-            "fileVersion": "1.2.1.0"
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
           }
         }
       },
@@ -454,7 +454,7 @@
       },
       "catalog.contracts/1.0.1": {
         "dependencies": {
-          "commom": "1.2.1"
+          "commom": "1.2.2"
         },
         "runtime": {
           "catalog.contracts.dll": {}
@@ -468,12 +468,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "commom/1.2.1": {
+    "commom/1.2.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SpJu5taGWm2zcdpo3wNIbSsuCXKhtyOHuYejqyFhyu/fZtVFot712hFKoWYllfcqRjXPs7+xgvtzruyIxH4rXg==",
-      "path": "commom/1.2.1",
-      "hashPath": "commom.1.2.1.nupkg.sha512"
+      "sha512": "sha512-9MY3r9NAibdl8zdxQKD2jzGVy6UzMUqMVIppD1BG4rUayoCk51dYGfg0asy2izagPVY78GyDr3fo2P1WTmWsxw==",
+      "path": "commom/1.2.2",
+      "hashPath": "commom.1.2.2.nupkg.sha512"
     },
     "DnsClient/1.6.1": {
       "type": "package",
